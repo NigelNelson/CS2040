@@ -1,0 +1,18 @@
+_room_h_	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^#define _room_h_$/;"	macro	line:12
+Room	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^class Room :public Collection{$/;"	class	line:22	inherits:Collection
+Room	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    Room();$/;"	prototype	line:27	class:Room	access:public	signature:()
+~Room	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    ~Room();$/;"	prototype	line:28	class:Room	access:public	signature:()
+getName	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    int getName();$/;"	prototype	line:33	class:Room	access:public	signature:()	returns:int 
+setName	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    void setName(int name);$/;"	prototype	line:37	class:Room	access:public	signature:(int name)	returns:void 
+addConnection	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    void addConnection(Room* room, std::string direction);$/;"	prototype	line:42	class:Room	access:public	signature:(Room* room, std::string direction)	returns:void 
+printPossibleDirections	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    void printPossibleDirections();$/;"	prototype	line:46	class:Room	access:public	signature:()	returns:void 
+isValidDirection	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    bool isValidDirection(std::string direction);$/;"	prototype	line:51	class:Room	access:public	signature:(std::string direction)	returns:bool 
+getNeighbor	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    Room* getNeighbor(std::string direction);$/;"	prototype	line:56	class:Room	access:public	signature:(std::string direction)	returns:Room 
+showContents	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    void showContents();$/;"	prototype	line:57	class:Room	access:public	signature:()	returns:void 
+hasConnections	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    bool hasConnections();$/;"	prototype	line:58	class:Room	access:public	signature:()	returns:bool 
+toUpper	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    std::string toUpper(std::string word);$/;"	prototype	line:63	class:Room	access:private	signature:(std::string word)	returns:std :: string 
+directionToInt	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    int directionToInt(std::string direction);$/;"	prototype	line:68	class:Room	access:private	signature:(std::string direction)	returns:int 
+intToDirection	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    std::string intToDirection(int dir);$/;"	prototype	line:73	class:Room	access:private	signature:(int dir)	returns:std :: string 
+MAX_CONNECTIONS	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    static constexpr int MAX_CONNECTIONS = 4;$/;"	member	line:78	class:Room	access:private
+name	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    int name;$/;"	member	line:79	class:Room	access:private
+connections	/home/student/Documents/cs2040/projects/test/lab6/room.h	/^    Room *connections[MAX_CONNECTIONS];$/;"	member	line:80	class:Room	access:private

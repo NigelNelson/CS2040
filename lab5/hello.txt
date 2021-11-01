@@ -1,0 +1,19 @@
+Initial state: Robot at 1, 1 (0 gold)
+
+Executing ees
+Robot at 3, 2 (2 gold)
+
++--------------------+
+|     #              |
+|              -     |
+| # R       #        |
+|                    |
+| O                  |
+|    *#      +   #   |
+|                    |
+|  ####              |
+|              ##    |
+|                    |
++--------------------+
+
+Robot has completed its task.

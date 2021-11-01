@@ -1,0 +1,25 @@
+3
+1
+0 1 east
+0 2 south
+1 0 west
+*
+0 exit MazeExit
+1 key MazeKey
+0 treasure Gold
+0 treasure Diamond
+2 teleporter Teleporter1
+1 teleporter Teleporter2
+END DUNGEON
+take MazeKey
+move west
+move west
+take Gold
+showbag
+take Statue
+move south
+teleport 0
+take Teleporter1
+teleport 0
+eat pizza
+unlock

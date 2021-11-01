@@ -1,0 +1,259 @@
+Welcome to Rogue
+
+Please enter the path to your game configuration file:
+loopMaze
+
+Unable to load file.
+
+Please enter the path to your game configuration file:
+loopMaze 
+
+Unable to load file.
+
+Please enter the path to your game configuration file:
+loopedMaze
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+MazeExit
+Ruby
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+unlock
+
+You don't have a key to unlock the exit!
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+MazeExit
+Ruby
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+take Ruby
+
+Ruby picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+MazeExit
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move north
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+Looking around you see the following items:
+TeleporterX
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+take TeleporterX
+
+TeleporterX picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+The room contains nothing exciting.
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move west
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 4".
+Looking around you see the following items:
+TeleporterY
+betterKey
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+take betterKey
+
+betterKey cannot be picked up because it is not movable.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 4".
+Looking around you see the following items:
+TeleporterY
+betterKey
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move west
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+The room contains nothing exciting.
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move south
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 3".
+Looking around you see the following items:
+Gold
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+take Gold
+
+Gold picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 3".
+The room contains nothing exciting.
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move east
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 2".
+Looking around you see the following items:
+Key
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+take Key
+
+Key picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 2".
+The room contains nothing exciting.
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move east
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+The room contains nothing exciting.
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move south
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 3".
+The room contains nothing exciting.
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move south
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+The room contains nothing exciting.
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move east
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 2".
+The room contains nothing exciting.
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move south
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 3".
+The room contains nothing exciting.
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move west
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 4".
+Looking around you see the following items:
+TeleporterY
+betterKey
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move north
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+MazeExit
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+unlock
+
+Using the Key, you unlock MazeExit and escape the maze.
+
+Your bag contains the following treasure:
+Gold
+Ruby
+Hit any key to continue...
+
+

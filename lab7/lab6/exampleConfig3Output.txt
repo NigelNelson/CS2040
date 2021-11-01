@@ -1,0 +1,106 @@
+Welcome to Rogue
+
+Please enter the path to your game configuration file:
+exampleConfig3
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+BitCoin
+The room has doors in the following directions:
+west
+
+What would you like to do?
+take BitCoin
+
+BitCoin picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+The room contains nothing exciting.
+The room has doors in the following directions:
+west
+
+What would you like to do?
+move west
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 2".
+Looking around you see the following items:
+Teleporter1
+MazeExit
+The room has doors in the following directions:
+north
+south
+west
+
+What would you like to do?
+move south
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+Looking around you see the following items:
+SuperKey
+Teleporter2
+DogeCoin
+The room has no doors!
+
+What would you like to do?
+take SuperKey
+
+SuperKey picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+Looking around you see the following items:
+Teleporter2
+DogeCoin
+The room has no doors!
+
+What would you like to do?
+take DogeCoin
+
+DogeCoin picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+Looking around you see the following items:
+Teleporter2
+The room has no doors!
+
+What would you like to do?
+take Teleporter2
+
+Teleporter2 picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+The room contains nothing exciting.
+The room has no doors!
+
+What would you like to do?
+teleport 0
+
+As if by magic you are transported to room 0.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+The room contains nothing exciting.
+The room has doors in the following directions:
+west
+
+What would you like to do?
+move west
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 2".
+Looking around you see the following items:
+Teleporter1
+MazeExit
+The room has doors in the following directions:
+north
+south
+west
+
+What would you like to do?
+unlock
+
+Using the SuperKey, you unlock MazeExit and escape the maze.
+
+Your bag contains the following treasure:
+DogeCoin
+BitCoin
+Hit any key to continue...
+
+

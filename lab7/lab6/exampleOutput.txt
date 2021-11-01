@@ -1,0 +1,151 @@
+Welcome to Rogue
+
+Please enter the path to your game configuration file:
+exampleFile
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+Looking around you see the following items:
+MazeKey
+Teleporter2
+The room has doors in the following directions:
+west
+
+What would you like to do?
+take MazeKey
+
+MazeKey picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+Looking around you see the following items:
+Teleporter2
+The room has doors in the following directions:
+west
+
+What would you like to do?
+move west
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+MazeExit
+Gold
+Diamond
+The room has doors in the following directions:
+east
+south
+
+What would you like to do?
+move west
+
+You can't move in that direction!
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+MazeExit
+Gold
+Diamond
+The room has doors in the following directions:
+east
+south
+
+What would you like to do?
+take Gold
+
+Gold picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+MazeExit
+Diamond
+The room has doors in the following directions:
+east
+south
+
+What would you like to do?
+showbag
+
+Your bag contains the following items:
+MazeKey - key
+Gold - treasure
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+MazeExit
+Diamond
+The room has doors in the following directions:
+east
+south
+
+What would you like to do?
+take Statue
+
+You don't see a Statue to take!
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+MazeExit
+Diamond
+The room has doors in the following directions:
+east
+south
+
+What would you like to do?
+move south
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 2".
+Looking around you see the following items:
+Teleporter1
+The room has no doors!
+
+What would you like to do?
+teleport 0
+
+You can't teleport without a teleporter!
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 2".
+Looking around you see the following items:
+Teleporter1
+The room has no doors!
+
+What would you like to do?
+take Teleporter1
+
+Teleporter1 picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 2".
+The room contains nothing exciting.
+The room has no doors!
+
+What would you like to do?
+teleport 0
+
+As if by magic you are transported to room 0.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+MazeExit
+Diamond
+The room has doors in the following directions:
+east
+south
+
+What would you like to do?
+eat pizza
+
+I don't know how to eat.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+MazeExit
+Diamond
+The room has doors in the following directions:
+east
+south
+
+What would you like to do?
+unlock
+
+Using the MazeKey, you unlock MazeExit and escape the maze.
+
+Your bag contains the following treasure:
+Gold
+Hit any key to continue...

@@ -1,0 +1,19 @@
+4
+0
+0 2 west
+2 0 north
+2 1 south
+2 3 west
+3 2 north
+3 0 south
+3 1 west
+*
+1 key SuperKey
+1 teleporter Teleporter2
+0 treasure BitCoin
+1 treasure DogeCoin
+2 teleporter Teleporter1
+2 exit MazeExit
+3 treasure Cash
+3 exit Exit2
+END DUNGEON

@@ -1,0 +1,84 @@
+Welcome to Rogue
+
+Please enter the path to your game configuration file:
+exampleConfig2 
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 2".
+Looking around you see the following items:
+Key
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+take Key
+
+Key picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 2".
+The room contains nothing exciting.
+The room has doors in the following directions:
+north
+east
+south
+west
+
+What would you like to do?
+move north
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+Looking around you see the following items:
+Silver
+The room has doors in the following directions:
+north
+south
+
+What would you like to do?
+take Silver
+
+Silver picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 0".
+The room contains nothing exciting.
+The room has doors in the following directions:
+north
+south
+
+What would you like to do?
+move north
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+Looking around you see the following items:
+MazeExit
+Teleporter1
+The room has no doors!
+
+What would you like to do?
+take Teleporter1
+
+Teleporter1 picked up and added to your bag.
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+Looking around you see the following items:
+MazeExit
+The room has no doors!
+
+What would you like to do?
+teleport home
+
+home isn't a room in the maze!
+
+You are in one of the maze rooms. A sign on the wall says, "Welcome to room 1".
+Looking around you see the following items:
+MazeExit
+The room has no doors!
+
+What would you like to do?
+exit
+
+Better luck next time!
+Hit any key to continue...
+
+

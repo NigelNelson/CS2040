@@ -1,0 +1,14 @@
+3
+2
+0 1 north
+0 2 south
+2 0 north
+2 1 east
+2 0 south
+2 1 west
+*
+1 exit MazeExit
+0 treasure Silver
+1 teleporter Teleporter1
+2 key Key
+END DUNGEON
